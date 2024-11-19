@@ -1,2 +1,2 @@
 ## Curd-Operations [Node.Js]
-### This repository demonstrates a complete CRUD operation workflow, including creating, reading, updating, and deleting data in Node.js
+#### I worked on this project where I designed and implemented a RESTful API using Node.js and Express. The API was created to handle simple secure user authentication, data validation, and CRUD operations efficiently. I also focused on optimizing the endpoints to ensure fast response times and scalability, integrating features like JWT for security and MongoDB as the database. This project gave me hands-on experience in API design, error handling
